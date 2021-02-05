@@ -18,8 +18,8 @@ directly in Colab).
 
 | Session   | Exercise (Github) | Exercise (Colab) |
 |-----------|------------------|------------------|
-| 1: Introduction | [Link](Intro_SwungRendezvous2021.ipynb) | [![Open In Colab](https://colab.research.google.com/github/PyLops/pylops_swungrendezvous2021/blob/main/Intro_SwungRendezvous2021.ipynb)
-| 2: Seismic interpolation | [Link](SeismicInterpolation_SwungRendezvous2021.ipynb) |   [![Open In Colab](https://colab.research.google.com/github/PyLops/pylops_swungrendezvous2021/blob/main/SeismicInterpolation_SwungRendezvous2021.ipynb)
+| 1: Introduction | [Link](Intro_SwungRendezvous2021.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PyLops/pylops_swungrendezvous2021/blob/main/Intro_SwungRendezvous2021.ipynb)
+| 2: Seismic interpolation | [Link](SeismicInterpolation_SwungRendezvous2021.ipynb) |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PyLops/pylops_swungrendezvous2021/blob/main/SeismicInterpolation_SwungRendezvous2021.ipynb)
 
 ## License
 The material in this repository is open and can be modified and redistributed according to the chosen licences.
